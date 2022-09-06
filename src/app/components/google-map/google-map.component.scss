@@ -1,0 +1,7 @@
+@import "src/assets/styles/variables";
+
+capacitor-google-map {
+  display: inline-block;
+  height: calc(100% - #{$toolbar-height});
+  width: 100%;
+}
